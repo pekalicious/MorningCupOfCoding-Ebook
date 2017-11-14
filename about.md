@@ -4,15 +4,11 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Morning Cup of Coding is a daily periodical of curated programming news.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+This site contains the daily issues compiled into EPub and Mobi formats. 
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Other ways to read the periodical:
 
-
-[jekyll-organization]: https://github.com/jekyll
+ - Subscribe to our subreddit: [r/MorningCupOfCoding](http://reddit.com/r/morningcupofcoding)
+ - Subscribe to our newsletter: [tinyletter.com/morningcupofcoding](http://tinyletter.com/morningcupofcoding)
