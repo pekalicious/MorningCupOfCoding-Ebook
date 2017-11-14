@@ -16,8 +16,8 @@
 title: Morning Cup of Coding
 email: pekalicious@gmail.com
 description: A curated list of today's programming articles.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/MorningCupOfCoding-Ebook" # the subpath of your site, e.g. /blog
+url: "https://pekalicious.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: sdasdf
 github_username:  pekalicious
 #date_format: "%Y-%m-%d"
