@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-Morning Cup of Coding is a daily periodical of curated programming news.
+Morning Cup of Coding is a daily periodical of curated programming articles.
 
 This site contains the daily issues compiled into EPub and Mobi formats. 
 
